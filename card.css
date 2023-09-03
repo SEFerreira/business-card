@@ -1,0 +1,24 @@
+
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.picture-img {
+    width: 175px;
+    border-radius: 10px;
+}
+
+.businesscard {
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+    padding: 5px;
+    justify-content: space-around;
+    text-align: right;
+    background: #F4ACB7;
+    color: #FFFFFF;
+    
+    border-bottom: 10px solid #FFCAD4;
+    border-radius: 20px;
+}
